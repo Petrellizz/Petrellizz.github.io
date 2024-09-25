@@ -1,0 +1,20 @@
+p {
+color: white;
+text-align: center;
+}
+
+h1 {
+text-align: center;
+color: white;
+}
+
+.icon {
+float: right;
+}
+
+.biografia {
+    
+text-align: center;
+color: black;
+width: 500px;
+}
